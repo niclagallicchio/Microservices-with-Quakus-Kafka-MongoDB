@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="Quarkus" url="file://$PROJECT_DIR$/Consumer-Kafka" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/Data-service" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/Producer" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Data-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Consumer-Kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/IntellijProject/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

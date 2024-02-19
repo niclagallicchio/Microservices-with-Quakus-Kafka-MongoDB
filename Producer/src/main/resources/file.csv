@@ -1,0 +1,13 @@
+code,wine_name,vintage,type,country,price
+1,Chianti Classico Gran Riserva,2015,Bianco,Italia,26.99
+2,Sauvignon Blanc,2020,Bianco,Francia,19.99
+3,Barolo,2014,Rosso,Italia,39.99
+4,Chardonnay,2018,Bianco,Stati Uniti,29.99
+5,Rioja Reserva,2012,Rosso,Spagna,32.99
+6,Prosecco Extra Dry,1999,Spumante secco,Italia,14.99
+7,Malbec,2017,Rosso,Argentina,22.99
+8,Sancerre,2019,Bianco,Francia,27.99
+9,Merlot,2016,Rosso,Cile,18.99
+10,Pinot Grigio,2021,Bianco,Italia,16.99
+11,Cabernet Sauvignon,2019,Rosso,Stati Uniti,34.99
+12,Château Lafite Rothschild,2015,Rosso,Francia,999.99
